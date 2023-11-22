@@ -1,0 +1,15 @@
+com\mycompany\sistemabancario\JakartaRestConfiguration.class
+com\mycompany\sistemabancario\model\domain\Transferencia.class
+com\mycompany\sistemabancario\model\domain\Emprestimo.class
+com\mycompany\sistemabancario\model\domain\Logradouro.class
+com\mycompany\sistemabancario\model\domain\Endereco.class
+com\mycompany\sistemabancario\model\domain\Agencia.class
+com\mycompany\sistemabancario\model\domain\Cliente.class
+com\mycompany\sistemabancario\model\domain\ContaCorrente.class
+com\mycompany\sistemabancario\main.class
+com\mycompany\sistemabancario\model\domain\ContaPoupanca.class
+com\mycompany\sistemabancario\model\domain\Gerente.class
+com\mycompany\sistemabancario\model\domain\Conta.class
+com\mycompany\sistemabancario\resources\JakartaEE8Resource.class
+com\mycompany\sistemabancario\core\HibernateManager.class
+com\mycompany\sistemabancario\model\domain\Tipo.class
